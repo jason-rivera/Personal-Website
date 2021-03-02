@@ -2,5 +2,7 @@ This is a personal project to showcase my understanding of UI/UX design and demo
 
 This project serves as a personal portfolio.
 
+http://www.jasonrivera.xyz/index.html
+
 Contributions:
 - Jason Rivera
