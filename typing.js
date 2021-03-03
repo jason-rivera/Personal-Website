@@ -4,7 +4,6 @@ $(document).ready(function(){
   var typed = new Typed(".typing", {
       strings: [
         "Software Developer",
-        "Database Developer",
         "Full-stack Developer"
       ],
       typeSpeed: 40,
